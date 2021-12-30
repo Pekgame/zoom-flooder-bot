@@ -1,5 +1,4 @@
 @ECHO OFF
-
 :choice
 cls
 set /P c=Did you want to install?[Y/n]: 
