@@ -82,6 +82,7 @@ for i in range(numberOfBots):
     drivers[i].find_element_by_id('joinBtn').click()
 
 system('cls')
+
 print('All bot(s) is joined!\nPress Alt+Ctrl+Shift+E to Exit all bots')
 
 #Waiting for user to quit bot(s)
