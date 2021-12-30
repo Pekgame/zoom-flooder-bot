@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*- #
 
+print('Loading...')
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import random
 from os import system
 from keyboard import is_pressed
 from time import sleep
+system('cls')
+print('Loaded Zoom Flooder Bot V0.1 Beta')
 
 #Setting up
 
