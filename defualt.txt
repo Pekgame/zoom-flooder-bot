@@ -1,2 +1,2 @@
-Replace this text with default Meeting ID
-Replace this text with default Passcode
+Replace this text with the default Meeting ID
+Replace this text with the default Passcode
