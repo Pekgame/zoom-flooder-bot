@@ -28,8 +28,7 @@ You can start using it by running `python main.py` command.<br>
 2. Type in how many of the bot(s) you want(More bots = More RAM used, Use it carefully or your pc will explode!).
 3. Enter bot name(Leave a blank to randomize name), If you choose custom name and more that one bots, the name will be the same!
 4. Hit Enter and boom! Bot(s) are joining, I know it's a little bit slow but this is **100%** working!(Don't you beleive me? Try it your self!).
-5. If you want to exit **DON'T** just press **Ctrl+C** or **Close** the program, the bot will still there!, The truth way is pressing **Alt+Ctrl+Shift+E**<br>
-(If it say you can't exit, Just **Ctrl+C** or **Close** the program, Because all bot(s) are now exited!).
+5. If you want to exit **DON'T** just press **Ctrl+C** or **Close** the program, the bot will still there!, The truth way is pressing **Alt+Ctrl+Shift+E**(If it say you can't exit, Just **Ctrl+C** or **Close** the program, Because all bot(s) are now exited!).
 
 # Change Logs
 V0.1 Beta - Base of all!
